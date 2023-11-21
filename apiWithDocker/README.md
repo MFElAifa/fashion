@@ -1,4 +1,4 @@
-<h1> Test Fidesio (sf6, php8) </h1>
+<h1> Fashion Mode (sf5.4, php8) </h1>
 
 ## —— Install dependencies & start docker and go to home page http://127.0.0.1:8000/:--
 ```
